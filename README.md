@@ -1,1 +1,1 @@
-# LoggingConfProyect
+# LoggingConfProject
